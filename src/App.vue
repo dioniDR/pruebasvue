@@ -15,6 +15,9 @@
       <li><router-link to="/otro-componente">Otro Componente</router-link></li>
       <li><router-link to="/nueva-ruta">Nueva Ruta</router-link></li>
       <li><router-link to="/qr-scanner">Escáner QR</router-link></li> <!-- ✅ Nueva opción agregada -->
+      <li><router-link to="/qr-generator">Generar QR</router-link></li>
+      <li><router-link to="/modal-window">Ventanas Modales</router-link></li>
+
     </ul>
   </nav>
 
